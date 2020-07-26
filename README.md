@@ -11,6 +11,8 @@ In the original SSD paper they have used grid sizes of 19, 10, 7, 4, 2, 1. I hav
 I have hooked outputs of the specified grid size from a pretrained model and pass those hooked outputs thorugh a ResBlock and a Out Conv layer which provides the classification  
 and bounding box outputs.I also have a custom head to the pretrained model where I get inferences on grid sizes smaller than 7. 
 
+I am facing lot of trouble training this model though because there are 9450 anchors overall combining all grid sizes so the loss shoots up really high and doesn't seem converging, Any help from anyone would be appreciated. 
+
 The Aechitecture image is below:
 
 ![Architecture image](https://github.com/Samjoel3101/SSD-Object-Detection/blob/master/SSD%20Architecture%20Diagram.jpg)

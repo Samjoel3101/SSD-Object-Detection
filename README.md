@@ -20,4 +20,6 @@ The Architecture image is below:
 Some Additional functionality added are : 1) A Callback for recording hyper parameter changes for every layer 
                                           2) A Interactive Learning Rate Scheduler using jupyter widgets to schedule interactively
                                           
-![Lr recorder][]
+![Lr recorder](https://github.com/Samjoel3101/SSD-Object-Detection/blob/master/imgs/Capture.JPG)
+
+![Interactive Lr Scheduler](https://github.com/Samjoel3101/SSD-Object-Detection/blob/master/imgs/interactive scheduler.JPG)

@@ -16,3 +16,8 @@ Thanks to @muellerzr 's repo https://github.com/muellerzr/Practical-Deep-Learnin
 The Architecture image is below:
 
 ![Architecture image](https://github.com/Samjoel3101/SSD-Object-Detection/blob/master/SSD%20Architecture%20Diagram.jpg)
+
+Some Additional functionality added are : 1) A Callback for recording hyper parameter changes for every layer 
+                                          2) A Interactive Learning Rate Scheduler using jupyter widgets to schedule interactively
+                                          
+![Lr recorder][]

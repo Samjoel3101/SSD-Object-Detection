@@ -22,4 +22,4 @@ Some Additional functionality added are : 1) A Callback for recording hyper para
                                           
 ![Lr recorder](https://github.com/Samjoel3101/SSD-Object-Detection/blob/master/imgs/Capture.JPG)
 
-![Interactive Lr Scheduler](https://github.com/Samjoel3101/SSD-Object-Detection/blob/master/imgs/interactive scheduler.JPG)
+![Interactive Lr Scheduler](https://github.com/Samjoel3101/SSD-Object-Detection/blob/master/imgs/interactive%20scheduler.JPG)
